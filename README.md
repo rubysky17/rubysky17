@@ -6,12 +6,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-nextdotjs-%23CC6699?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Go](https://img.shields.io/badge/-go-black?style=flat-square&logo=go)
 ![Expressjs](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Redis](https://img.shields.io/badge/-redis-black?style=flat-square&logo=redis)
+![Kafka](https://img.shields.io/badge/-apachekafka-black?style=flat-square&logo=apachekafka)
 
 ![Rubysky17's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubysky17&show_icons=true)
 

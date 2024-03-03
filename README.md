@@ -11,7 +11,7 @@
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Expressjs)
 
 ![Rubysky17's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubysky17&show_icons=true)
 

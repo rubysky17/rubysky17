@@ -6,8 +6,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-nextdotjs-%23CC6699?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 #### Backend

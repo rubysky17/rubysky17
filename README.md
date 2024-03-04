@@ -12,13 +12,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-%235E2BA7?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-%23FFFFFF?style=flat-square&logo=tailwindcss&logoColor=37bcf8)
 ![ChartJS](https://img.shields.io/badge/-ChartJS-%23FFFFFF?style=flat-square&logo=chartdotjs&logoColor=ff6283)
+![ChakraUI](https://img.shields.io/badge/-ChakraUI-%23FFFFFF?style=flat-square&logo=chakraui&logoColor=46c7be)
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Go](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![Expressjs](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Kafka](https://img.shields.io/badge/-Apache Kafka-black?style=flat-square&logo=apachekafka)
+![Kafka](https://img.shields.io/badge/-ApacheKafka-black?style=flat-square&logo=apachekafka)
 
 ![Rubysky17's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubysky17&show_icons=true)
 

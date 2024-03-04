@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
-![flutter](https://img.shields.io/badge/-flutter-%2360c9f9?style=flat-square&logo=flutter&logoColor=60c9f9)
+![flutter](https://img.shields.io/badge/-Flutter-%2302599c?style=flat-square&logo=flutter&logoColor=60c9f9)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-%235E2BA7?style=flat-square&logo=bootstrap&logoColor=ffffff)
